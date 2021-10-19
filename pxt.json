@@ -1,5 +1,5 @@
 {
-    "name": "radioSender",
+    "name": "microbitRadioSender",
     "description": "",
     "dependencies": {
         "core": "*",
